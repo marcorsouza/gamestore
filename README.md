@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adonis fullstack application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
@@ -33,4 +32,3 @@ adonis migration:run
 =======
 # gamestore
 Aplicação de Estudos sobre AdonisJs
->>>>>>> 45584aa504de8462c9e17beba4de0ea5c2f435ce
