@@ -1,0 +1,35 @@
+.navbar-brand h4 {
+  line-height: 64px;
+}
+
+.navbar-nav > li
+{
+  width: 100px;
+  height: 100%;
+}
+
+.navbar-collapse {
+  height: 74px;
+}
+
+.navbar-nav > li {
+  height: 74px;
+  text-align: center;
+  align-self: center;
+}
+
+.navbar-nav > li > a{
+  height: 74px;
+  line-height: 60px;
+  vertical-align: middle;
+}
+
+.navbar-nav > li > a:hover
+{
+  border-top-width: 2px;
+  border-top-color: cadetblue;
+  border-top-style: double;
+  background-color: yellowgreen;
+
+  margin-top: -2px;
+}
