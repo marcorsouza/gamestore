@@ -9,22 +9,22 @@
 }
 
 .navbar-collapse {
-  height: 74px;
+  /*height: 74px;*/
 }
 
 .navbar-nav > li {
-  height: 74px;
+  /*height: 74px;*/
   text-align: center;
   align-self: center;
 }
 
 .navbar-nav > li > a{
-  height: 74px;
+  /*height: 74px;*/
   line-height: 60px;
   vertical-align: middle;
 }
 
-.navbar-nav > li > a:hover
+.navbar-nav > li > a:hover, .navbar-nav .active
 {
   border-top-width: 2px;
   border-top-color: cadetblue;
